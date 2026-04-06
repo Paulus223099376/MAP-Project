@@ -16,7 +16,7 @@ The detailed description of the rubric components is given below:
 5. Presentation - Team presentation, Q&A, Clear separation of tasks done.
 |      Names           | Student Number|
 | --------------------:|--------------:|
-|  Johannes Paulus       | 223099376     |
-|                        |                |
+|  Johannes Paulus       | 223099376      |
+|  Pinto Kambinda        | 224085573      |
 |                        |                |
 |                        |                |
