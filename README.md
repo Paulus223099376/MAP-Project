@@ -18,5 +18,5 @@ The detailed description of the rubric components is given below:
 | --------------------:|--------------:|
 |  Johannes Paulus       | 223099376      |
 |  Pinto Kambinda        | 224085573      |
-|                        |                |
+|  Alanray Miller        | 223003018      |
 |                        |                |
