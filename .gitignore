@@ -1,0 +1,54 @@
+# ─── Gradle ───────────────────────────────────────────────────────────────────
+.gradle/
+build/
+**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# ─── Kotlin sessions (don't commit IDE compiler sessions) ─────────────────────
+.kotlin/
+.sessions/
+
+# ─── Android Studio / IntelliJ ────────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.navigation/
+captures/
+.externalNativeBuild
+.cxx
+
+# ─── Local config (never commit secrets or machine-specific paths) ────────────
+local.properties
+keystore.properties
+google-services.json
+*.jks
+*.keystore
+
+# ─── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Generated / compiled ─────────────────────────────────────────────────────
+*.class
+*.dex
+*.ap_
+*.apk
+*.aab
+*.aar
+gen/
+release/
+
+# ─── Lint & test reports ──────────────────────────────────────────────────────
+lint/
+lint-results*
+test-results/
+coverage/
+
+# ─── Project docs (keep local only) ───────────────────────────────────────────
+ARCHITECTURE.md
+README.md
