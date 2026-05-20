@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="garage_red">#B3261E</color>
+    <color name="garage_dark">#1C1B1F</color>
+    <color name="garage_amber">#F2A516</color>
+    <color name="garage_steel">#5C6770</color>
+    <color name="garage_cream">#FAF6F1</color>
+    <color name="garage_ink">#221F1A</color>
+</resources>

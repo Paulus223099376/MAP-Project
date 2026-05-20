@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valentine\'s Garage</string>
+    <string name="app_tagline">Truck check-in &#8226; Repair tracking &#8226; Reports</string>
+    <string name="app_byline">Crafted by Aurevarg</string>
+
+    <!-- Auth -->
+    <string name="login_title">Sign in</string>
+    <string name="login_subtitle">Use your work account to access the garage</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Sign in</string>
+    <string name="login_register">Create an account</string>
+
+    <string name="register_title">Create account</string>
+    <string name="register_button">Create account</string>
+
+    <!-- Bottom nav -->
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_trucks">Trucks</string>
+    <string name="tab_reports">Reports</string>
+    <string name="tab_profile">Me</string>
+
+    <!-- Trucks -->
+    <string name="trucks_title">Trucks</string>
+    <string name="trucks_search_hint">Search by plate, customer or model</string>
+    <string name="trucks_empty">No trucks checked in yet</string>
+    <string name="trucks_check_in">Check in truck</string>
+
+    <!-- Check-in -->
+    <string name="checkin_title">Truck check-in</string>
+    <string name="checkin_plate">Number plate</string>
+    <string name="checkin_make">Make</string>
+    <string name="checkin_model">Model</string>
+    <string name="checkin_owner">Owner / Customer</string>
+    <string name="checkin_km">Odometer reading (km)</string>
+    <string name="checkin_condition">Vehicle condition</string>
+    <string name="checkin_notes">Condition notes (scratches, dents, missing items)</string>
+    <string name="checkin_save">Save check-in</string>
+
+    <!-- Detail -->
+    <string name="detail_tasks">Repair tasks</string>
+    <string name="detail_add_task">Add task</string>
+    <string name="detail_history">Activity log</string>
+    <string name="detail_complete_truck">Mark truck complete</string>
+
+    <!-- Reports -->
+    <string name="reports_title">Reports</string>
+    <string name="reports_employees">Employee activity</string>
+    <string name="reports_conditions">Check-in conditions</string>
+
+    <!-- Settings & profile -->
+    <string name="settings_title">Settings</string>
+    <string name="profile_title">Your profile</string>
+    <string name="profile_change_password">Change password</string>
+    <string name="profile_save">Save profile</string>
+    <string name="action_sign_out">Sign out</string>
+
+    <!-- Conditions -->
+    <string name="condition_excellent">Excellent</string>
+    <string name="condition_good">Good</string>
+    <string name="condition_fair">Fair</string>
+    <string name="condition_poor">Poor</string>
+</resources>
